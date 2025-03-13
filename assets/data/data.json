@@ -1,0 +1,118 @@
+{
+    "contact": {
+        "phone": "+91 78921 04993",
+        "phoneLink": "tel:+917892104993",
+        "email": "info@viswajitnikhathgymnastiks.in",
+        "emailLink": "mailto:info@viswajitnikhathgymnastiks.in?subject=Gymnastics%20Class%20Enquiry",
+        "whatsapp": "https://wa.me/919164636350",
+        "whatsappGeneral": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Gymnastiks%20Training%20Program.",
+        "facebook": "https://www.facebook.com/ViswajitNikhathGymnastiks",
+        "instagram": "https://www.instagram.com/explore/tags/viswajitnikhathgymnastiks/",
+        "googleMap": "https://g.page/ViswajitNikhathGymnastiks?share",
+        "address": "ITPL Main Road, Next to Smart Works, Silver Springs Layout Junction, Bengaluru, Karnataka 560037"
+    },
+    "programs": {
+        "toddler": {
+            "title": "Gymnastics for Toddlers",
+            "excerpt": "We have toddlers gymnastics classes for your kids.",
+            "description": "Join our toddler gymnastics classes, which is a parent-child program.",
+            "image": "toddler-gymnastics-bangalore-viswajit-nikhath-gymnastiks-355x237.jpg",
+            "banner": {
+                "1000x600": "toddler-gymnastics-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "toddler-gymnastics-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "toddler-gymnastics-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x512": "toddler-gymnastics-classes-768x512.jpg",
+                "425x283": "toddler-gymnastics-classes-425x283.jpg"
+            },
+            "url": "/programs/toddler-gymnastics",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Toddler%20Gymnastics%20Training%20Program."
+        },
+        "recreational": {
+            "title": "Recreational Gymnastics",
+            "excerpt": "Recreational programs are offered for age-group of 4 - 16.",
+            "description": "Our recreational program is designed for kids aged 4-16 to learn gymnastics in a fun, supportive environment.",
+            "image": "recreational-gymnastics-bangalore-viswajit-nikhath-gymnastiks-350x233.jpg",
+            "banner": {
+                "1000x600": "recreational-gymnastics-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "recreational-gymnastics-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "recreational-gymnastics-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x512": "recreational-gymnastics-classes-768x512.jpg",
+                "425x283": "recreational-gymnastics-classes-425x283.jpg"
+            },
+            "url": "/programs/recreational-gymnastics",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Recreational%20Gymnastics%20Training%20Program."
+        },
+        "adhd": {
+            "title": "Gymnastics for Children with ADHD",
+            "excerpt": "Recreational programs are offered for age-group of 4 - 16.",
+            "description": "Gymnastics provides an ideal outlet for children with ADHD, helping improve focus and behavior.",
+            "image": "gymnastics-for-adhd-kids-bangalore-viswajit-nikhath-gymnastiks-350x233.jpg",
+            "banner": {
+                "1000x600": "gymnastics-for-adhd-child-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "gymnastics-for-adhd-child-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "gymnastics-for-adhd-child-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x974": "adhd-gymnastics-classes-768x974.jpg",
+                "425x539": "adhd-gymnastics-classes-425x539.jpg"
+            },
+            "url": "/programs/adhd-kids-gymnastics",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20ADHD%20Gymnastics%20Training%20Program."
+        },
+        "precompetitive": {
+            "title": "Pre-Competitive Gymnastics",
+            "excerpt": "Pre-competitive gymnastics helps develop and prepare gymnasts for the rigors of their competitive team.",
+            "description": "Pre-competitive gymnastics prepares gymnasts aged 6-16 for competitive teams.",
+            "image": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-350x233.jpg",
+            "banner": {
+                "1000x600": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x512": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-768x512.jpg",
+                "425x283": "precompetitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-425x283.jpg"
+            },
+            "url": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20PreCompetitive%20Gymnastics%20program.",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Pre-Competitive%20Gymnastics%20Training%20Program."
+        },
+        "competitive": {
+            "title": "Competitive Gymnastics",
+            "excerpt": "The benefits earned from participation in competitive and pre-competitive gymnastics can last a lifetime!",
+            "description": "Competitive gymnastics trains talented gymnasts for district, state, national, and international competitions.",
+            "image": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-350x233.jpg",
+            "banner": {
+                "1000x600": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x512": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-768x512.jpg",
+                "425x283": "competitive-gymnastics-bangalore-viswajit-nikhath-gymnastiks-425x283.jpg"
+            },
+            "url": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Competitive%20Gymnastics%20program.",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Competitive%20Gymnastics%20Training%20Program."
+        },
+        "adult": {
+            "title": "Adult Gymnastics",
+            "excerpt": "We offer programs for adults of age 17 to 60 years.",
+            "description": "Adult gymnastics welcomes gymnasts 17 or older, at every skill level, with no experience necessary.",
+            "image": "adult-gymnastics-bangalore-viswajit-nikhath-gymnastiks-350x233.jpg",
+            "banner": {
+                "1000x600": "adult-gymnastics-viswajit-nikhath-gymnastiks-1000x600.jpg",
+                "768x460": "adult-gymnastics-viswajit-nikhath-gymnastiks-768x460.jpg",
+                "425x255": "adult-gymnastics-viswajit-nikhath-gymnastiks-425x255.jpg"
+            },
+            "secondaryImage": {
+                "768x512": "adult-gymnastics-classes-768x512.jpg",
+                "425x283": "adult-gymnastics-classes-425x283.jpg"
+            },
+            "url": "/programs/adult-gymnastics",
+            "whatsapp": "https://wa.me/919164636350/?text=Hi,%20I%20was%20checking%20your%20website%20and%20I%20would%20like%20to%20know%20more%20about%20the%20Adult%20Gymnastics%20Training%20Program."
+        }
+    }
+}
