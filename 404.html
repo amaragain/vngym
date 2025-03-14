@@ -201,5 +201,33 @@
 
         window.addEventListener('load', renderPrograms);
     </script>
+
+    <script>
+        // Get the requested URL path
+        const path = window.location.pathname;
+
+        // Mapping of clean URLs to HTML files
+        const routes = {
+            '/': '/index.html',
+            '/direction': '/direction.html',
+            '/404': '/404.html',
+            '/programs': '/programs.html',
+            '/programs/adhd-kids-gymnastics': '/adhd-kids-gymnastics.html',
+            '/programs/adult-gymnastics': '/adult-gymnastics.html',
+            '/programs/competitive-gymnastics': '/competitive-gymnastics.html',
+            '/programs/precompetitive-gymnastics': '/precompetitive-gymnastics.html',
+            '/programs/recreational-gymnastics': '/recreational-gymnastics.html',
+            '/programs/toddler-gymnastics': '/toddler-gymnastics.html'
+        };
+
+        // Check if the path exists in our routes
+        if (routes[path]) {
+            window.location.replace(routes[path]); // Redirect to the correct file
+        } else {
+            document.body.innerHTML = '<h1>404 - Page Not Found</h1><p>Sorry, this page does not exist.</p>';
+        }
+    </script>
+
+    
 </body>
 </html>
