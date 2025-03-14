@@ -1,0 +1,2 @@
+theme: minima  # Optional: only if you want a default theme
+permalink: none  # Prevents Jekyll from altering file paths
